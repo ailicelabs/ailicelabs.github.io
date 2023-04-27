@@ -26,9 +26,9 @@ disqus:
   id:               "christiansalvatore"
 
 # URL
-url:                "https://iuss-ailicelabs.github.io"
+url:                "https://ailicelabs.github.io"
 #url:               "localhost:4000"
-baseurl:            "https://iuss-ailicelabs.github.io"
+baseurl:            "https://ailicelabs.github.io"
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
