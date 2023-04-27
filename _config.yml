@@ -3,32 +3,32 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "christiansalvatore"
+name:               "IUSS Research Group on Artificial Intelligence and Machine Learning"
 
 
 
 author:
-  name:             Christian Salvatore
+  name:             IUSS Research Group on Artificial Intelligence and Machine Learning
   #facebook:         your-id
-  twitter:          cd_salvatore
-  github:           christiansalvatore
+  #twitter:          cd_salvatore
+  #github:           christiansalvatore
   #linkedin:         your-id
   #medium:           your-id
   #tumblr:           your-id
-  email:            christian.salvatore@ibfm.cnr.it
+  email:            christian.salvatore@iusspavia.it
 
 # Google-analytics
-google-analytics:
-  id:               "UA-85985571-1"
+# google-analytics:
+#  id:               "UA-85985571-1"
 
 # Disqus
-disqus:
-  id:               "christiansalvatore"
+# disqus:
+#  id:               "christiansalvatore"
 
 # URL
-url:                "https://ailicelabs.github.io"
+url:                "https://christiansalvatore.github.io/IUSS-Research-Group-Artificial-Intelligence-Machine-Learning"
 #url:               "localhost:4000"
-baseurl:            "https://ailicelabs.github.io"
+baseurl:            "https://christiansalvatore.github.io/IUSS-Research-Group-Artificial-Intelligence-Machine-Learning"
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -48,16 +48,16 @@ kramdown:
 nav:
 #  - name:           "About"
 #    url:            "/about"
-  - name:           "Archive"
-    url:            "/archive"
-  - name:           "Tags"
-    url:            "/tags"
-  - name:           "Github"
-    url:            "https://github.com/christiansalvatore"
+#  - name:           "Archive"
+#     url:            "/archive"
+#   - name:           "Tags"
+#    url:            "/tags"
+#  - name:           "Github"
+#    url:            "https://github.com/christiansalvatore"
   - name:           "Publications"
     url:            "/publications/publications-bibbase.html"    
-  - name:           "Awards"
-    url:            "/awards/awards.html"        
+#  - name:           "Awards"
+#    url:            "/awards/awards.html"        
 #  - name:           "Dissemination"
 #    url:            "/dissemination/dissemination.html"        
 
