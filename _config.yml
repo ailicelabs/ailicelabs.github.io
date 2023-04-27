@@ -56,8 +56,8 @@ nav:
 #    url:            "https://github.com/christiansalvatore"
   - name:           "Publications"
     url:            "/publications/publications-bibbase.html"    
-#  - name:           "Awards"
-#    url:            "/awards/awards.html"        
+  - name:           "People"
+    url:            "/people/people.html"        
 #  - name:           "Dissemination"
 #    url:            "/dissemination/dissemination.html"        
 
