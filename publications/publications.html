@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+    <head>
+	<title>My pubs</title>
+	<link rel="stylesheet" href="bib-publication-list.css"/>
+        <link href="https://fonts.googleapis.com/css?family=Catamaran:100|Heebo:100|Open+Sans" rel="stylesheet">
+    </head>
+    <body>
+        <noscript>
+            <!-- bibtex source hidden by default, show it if JS disabled -->
+        </noscript>
+	<h1>List of publications</h1>
+        <table id="pubTable" class="display"></table>
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <script type="text/javascript" src="build/bib-list.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+       	    bibtexify("https://dl.dropboxusercontent.com/u/107903427/publications.bib", "pubTable", {'tweet': 'chsbttf'});
+            });
+        </script>
+    </body>
+</html>
