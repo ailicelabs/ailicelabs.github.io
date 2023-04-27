@@ -26,9 +26,9 @@ author:
 #  id:               "christiansalvatore"
 
 # URL
-url:                "https://christiansalvatore.github.io/IUSS-Research-Group-Artificial-Intelligence-Machine-Learning"
+url:                "https://ailicelabs.github.io"
 #url:               "localhost:4000"
-baseurl:            "https://christiansalvatore.github.io/IUSS-Research-Group-Artificial-Intelligence-Machine-Learning"
+baseurl:            "https://ailicelabs.github.io"
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
